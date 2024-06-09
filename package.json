@@ -1,0 +1,19 @@
+{
+  "name": "os-module-nodejs",
+  "version": "1.0.0",
+  "main": "os_example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodfader/USAGE-of-OS-MODULE-in-NodeJS.git"
+  },
+  "author": "Amro Soliman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kodfader/USAGE-of-OS-MODULE-in-NodeJS/issues"
+  },
+  "homepage": "https://github.com/kodfader/USAGE-of-OS-MODULE-in-NodeJS#readme",
+  "description": ""
+}
